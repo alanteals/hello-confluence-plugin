@@ -1,0 +1,1 @@
+hello-confluence-plugin
