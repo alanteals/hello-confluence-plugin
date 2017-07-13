@@ -1,0 +1,5 @@
+#for IntelliJ IDEA
+\.idea/
+
+#generated code
+\target/
